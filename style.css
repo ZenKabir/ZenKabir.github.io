@@ -1,0 +1,63 @@
+body{
+    background: black;
+}
+
+.headerbox{
+    height: 100px;
+    width: 10000;
+    background: #5c1414;
+}
+
+.mainhead{
+    
+    padding-top: 10px ;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+}
+
+.aboutbox{
+    color: white;
+    height: auto;
+    width: 500px;
+    padding-top: 0%;
+    padding-left: 15px;
+    border-style: dotted;
+}
+
+.aboutmeheader{
+    font-size: 45px;
+}
+
+.aboutmetext{
+    font-size: 20px;
+}
+
+
+
+.projects{
+    color: white;
+    border-style: dotted;
+    width: 600px;
+    height: 350px;
+    padding-left: 5px;
+    margin-left: 1000px;
+    bottom: 52.5%;
+    position: absolute;
+}
+
+.projectshead{
+    margin-top: 50px;
+    font-size: 40px;
+}
+
+.foot{
+    color: black;
+    position: absolute;
+    bottom:0;
+    padding-left: 45%;
+    width:54%;
+    background-color: #5c1414;
+}
+a {
+    color:black;
+}
